@@ -49,7 +49,7 @@ a
 {
     width: 940px;
     margin: 0 auto;
-    padding: 0 px 10px;
+    padding: 0px 10px;
 }
 .orange
 {color:red;
@@ -98,7 +98,7 @@ header nav ul li a
 #information
 {
  height: 580px;
-    background: url(images/new-z.png)no-repeat center;}
+    background: url(images/new-3.png)no-repeat center;}
 #information h2
 {
     font-weight: normal;
@@ -213,10 +213,24 @@ margin-bottom: 20px;}
 }
 
 /*contact*/
+
 #contact
 {
     padding: 60px 0;
     text-align: center;
+}
+
+.button-contact{
+    display: block;
+    width: 220px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 3px;
 }
 #contact h3
 {
@@ -279,6 +293,10 @@ footer h1
     padding-top: 30px;
     color: #777;
     
+}
+
+.center{
+    text-align: center;
 }
 
 
